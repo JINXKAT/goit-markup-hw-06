@@ -440,7 +440,7 @@ img {
 /* ================ /HERO STYLES ================ */
 
 /* ================ FOOTER STYLES ================ */
-.page-footer{
+/* .page-footer{
     background-color:#2e2f42;
     padding-bottom: 100px;
     padding-top: 100px;
@@ -602,12 +602,12 @@ img {
 .subscribe-form-icon {
     fill: #fff;
     margin-left: 16px;
-}
+} */
 /* ================ /FOOTER STYLES ================ */
 
 
 /* ================ MODAL STYLES ================ */
-.backdrop {
+/* .backdrop {
     position: fixed;
     top: 0;
     left: 0;
@@ -860,5 +860,5 @@ img {
   .modal-form-btn:focus {
     background-color: #404bbf;
     border: none;
-  }
+  } */
 /* ================ /MODAL STYLES ================ */
